@@ -22,7 +22,7 @@
 
 # 06
 
-- They put some new work on master.
+- They put some new work on `master`.
 
 # 07
 

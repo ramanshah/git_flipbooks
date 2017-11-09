@@ -18,7 +18,7 @@
 
 # 05
 
-- They put some new work on master.
+- They put some new work on `master`.
 
 # 06
 
@@ -36,7 +36,7 @@
 
 # 09
 
-- Click "New Pull Request"
+- Click "New Pull Request."
 - Get comments; do work; make commits.
 
 # 10
